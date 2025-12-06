@@ -1,3 +1,3 @@
 Simple PCB made during Aurora Hackathon
-![PCB Proof](images/PCBproof.png)
+![PCB Proof](CHECKIMAGE.png)
 
